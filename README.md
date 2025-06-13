@@ -20,7 +20,7 @@ ContentFlow is a smart and interactive platform built using **React.js** that al
 
 | Upload Options | Output Formats |
 |----------------|----------------|
-| ![Upload UI](https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg?auto=compress&cs=tinysrgb&w=300&h=533) | ![Preview](https://images.pexels.com/photos/3184287/pexels-pho<img width="918" alt="Screenshot 2025-06-13 at 10 33 22 PM" src="https://github.com/user-attachments/assets/90151000-a752-4687-a8bb-be1631d05a7d" />
+| (https://images.pexels.com/photos/3184287/pexels-pho<img width="918" alt="Screenshot 2025-06-13 at 10 33 22 PM" src="https://github.com/user-attachments/assets/90151000-a752-4687-a8bb-be1631d05a7d" />
 <img width="1279" alt="Screenshot 2025-06-13 at 10 58 24 PM" src="https://github.com/user-attachments/assets/079fb357-69e0-4450-a4b2-3f81a1ee9114" />
 <img width="1280" alt="Screenshot 2025-06-13 at 10 58 34 PM" src="https://github.com/user-attachments/assets/780eddc7-55e3-4492-bb98-5a32beb60e55" />
 <img width="1280" alt="Screenshot 2025-06-13 at 10 58 42 PM" src="https://github.com/user-attachments/assets/10679ee2-c097-43f5-83e8-47c5a8742732" />
